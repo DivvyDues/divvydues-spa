@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    <p>ciao</p>
+    <p>Hello world</p>
   </main>
 </template>
